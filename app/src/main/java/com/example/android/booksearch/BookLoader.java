@@ -51,4 +51,3 @@ public class BookLoader extends AsyncTaskLoader<List<Book>> {
         return books;
     }
 }
-
